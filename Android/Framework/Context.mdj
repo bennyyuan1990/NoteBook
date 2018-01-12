@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "类继承结构",
+					"name": "Context类继承结构",
 					"visible": true,
 					"defaultDiagram": true,
 					"ownedViews": [
