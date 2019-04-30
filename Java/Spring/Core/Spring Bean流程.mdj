@@ -4,25 +4,6 @@
 	"name": "Untitled",
 	"ownedElements": [
 		{
-			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				}
-			]
-		},
-		{
 			"_type": "UMLCollaboration",
 			"_id": "AAAAAAFqYo0VHIDroLA=",
 			"_parent": {
@@ -2106,9 +2087,6 @@
 								"$ref": "AAAAAAFqYo0VHYDshMA="
 							},
 							"name": "ClassPathXmlApplicationContext",
-							"represent": {
-								"$ref": "AAAAAAFqYo16bID84WE="
-							},
 							"isMultiInstance": false
 						},
 						{
@@ -2118,9 +2096,6 @@
 								"$ref": "AAAAAAFqYo0VHYDshMA="
 							},
 							"name": "BeanDefinitionReader",
-							"represent": {
-								"$ref": "AAAAAAFqYo5mrIEcEMg="
-							},
 							"isMultiInstance": false
 						},
 						{
@@ -2130,9 +2105,6 @@
 								"$ref": "AAAAAAFqYo0VHYDshMA="
 							},
 							"name": "BeanDefinitionDocumentReader",
-							"represent": {
-								"$ref": "AAAAAAFqYq7gaII5dE4="
-							},
 							"isMultiInstance": false
 						},
 						{
@@ -2142,55 +2114,9 @@
 								"$ref": "AAAAAAFqYo0VHYDshMA="
 							},
 							"name": "BeanDefinitionRegistry",
-							"represent": {
-								"$ref": "AAAAAAFqYxs+CoKwdhI="
-							},
 							"isMultiInstance": false
 						}
 					]
-				}
-			],
-			"attributes": [
-				{
-					"_type": "UMLAttribute",
-					"_id": "AAAAAAFqYo16bID84WE=",
-					"_parent": {
-						"$ref": "AAAAAAFqYo0VHIDroLA="
-					},
-					"name": "Role1"
-				},
-				{
-					"_type": "UMLAttribute",
-					"_id": "AAAAAAFqYo5mrIEcEMg=",
-					"_parent": {
-						"$ref": "AAAAAAFqYo0VHIDroLA="
-					},
-					"name": "Role2"
-				},
-				{
-					"_type": "UMLAttribute",
-					"_id": "AAAAAAFqYpZVfIFghwE=",
-					"_parent": {
-						"$ref": "AAAAAAFqYo0VHIDroLA="
-					},
-					"name": "Role3",
-					"type": ""
-				},
-				{
-					"_type": "UMLAttribute",
-					"_id": "AAAAAAFqYq7gaII5dE4=",
-					"_parent": {
-						"$ref": "AAAAAAFqYo0VHIDroLA="
-					},
-					"name": "Role4"
-				},
-				{
-					"_type": "UMLAttribute",
-					"_id": "AAAAAAFqYxs+CoKwdhI=",
-					"_parent": {
-						"$ref": "AAAAAAFqYo0VHIDroLA="
-					},
-					"name": "Role5"
 				}
 			]
 		}
